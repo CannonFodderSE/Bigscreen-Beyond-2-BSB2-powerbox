@@ -15,6 +15,8 @@ Ran it for multiple hours for two days without any black outs nor gray outs.  On
 
 Schematic is shown below.
 
+![BSB power box.png](BSB_power_box.png)
+
 In my build I did not put in the power switch.  I used remote controlled outlets to turn it and the two base stations on and off.
 
 J-1 is a USB-A male plug on a cable.  It could be a USB-C male plug if so desired.  Do not know if the BSB2 accepts USB 3 data.  The USB cables onb the link box are blue indicating it is USB 3.  Everything I have read or watched seems to indicate USB 2 data is used for the light house receivers and audio.  USB parts listed below and in the scmatic are for USB 2.
